@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\Projects udemy course C# OOP\\Zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73EAA7B-EF5C-4C72-B4BC-8A98FB8B36A5}|..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\DungeonsOfDoom.csproj|e:\\coding\\projects udemy course c# oop\\dungeonsofdoomstart\\dungeonsofdoomstart\\dungeonsofdoom\\ogre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73EAA7B-EF5C-4C72-B4BC-8A98FB8B36A5}|..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\DungeonsOfDoom.csproj|e:\\coding\\projects udemy course c# oop\\dungeonsofdoomstart\\dungeonsofdoomstart\\dungeonsofdoom\\consolegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73EAA7B-EF5C-4C72-B4BC-8A98FB8B36A5}|..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\DungeonsOfDoom.csproj|e:\\coding\\projects udemy course c# oop\\dungeonsofdoomstart\\dungeonsofdoomstart\\dungeonsofdoom\\randomutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ogre.cs",
+              "DocumentMoniker": "E:\\Coding\\Projects udemy course C# OOP\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\Ogre.cs",
+              "RelativeDocumentMoniker": "..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\Ogre.cs",
+              "ToolTip": "E:\\Coding\\Projects udemy course C# OOP\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\Ogre.cs",
+              "RelativeToolTip": "..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\Ogre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:21:46.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomUtils.cs",
+              "DocumentMoniker": "E:\\Coding\\Projects udemy course C# OOP\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\RandomUtils.cs",
+              "RelativeDocumentMoniker": "..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\RandomUtils.cs",
+              "ToolTip": "E:\\Coding\\Projects udemy course C# OOP\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\RandomUtils.cs",
+              "RelativeToolTip": "..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\RandomUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:17:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleGame.cs",
+              "DocumentMoniker": "E:\\Coding\\Projects udemy course C# OOP\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\ConsoleGame.cs",
+              "RelativeDocumentMoniker": "..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\ConsoleGame.cs",
+              "ToolTip": "E:\\Coding\\Projects udemy course C# OOP\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\ConsoleGame.cs",
+              "RelativeToolTip": "..\\DungeonsOfDoomStart\\DungeonsOfDoomStart\\DungeonsOfDoom\\ConsoleGame.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:15:37.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

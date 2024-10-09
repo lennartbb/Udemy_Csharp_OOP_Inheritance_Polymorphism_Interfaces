@@ -1,0 +1,13 @@
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.exe
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.deps.json
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.runtimeconfig.json
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.runtimeconfig.dev.json
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.dll
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\bin\Debug\netcoreapp3.1\DungeonsOfDoom.pdb
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.AssemblyInfoInputs.cache
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.AssemblyInfo.cs
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.dll
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.pdb
+E:\Coding\Projects udemy course C# OOP\DungeonsOfDoomStart\DungeonsOfDoomStart\DungeonsOfDoom\obj\Debug\netcoreapp3.1\DungeonsOfDoom.genruntimeconfig.cache
