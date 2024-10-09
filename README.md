@@ -1,2 +1,2 @@
-# Udemy_Csharp_OOP_Inheritance_Polymorphism_Interfaces
+# Udemy C# OOP Inheritance, Polymorphism, Interfaces
  C# course from Udemy
