@@ -23,14 +23,14 @@ namespace DungeonsOfDoom
                 DisplayWorld();
                 DisplayStats();
                 AskForMovement();
-            } while (player.IsAlive);
+            } while (player.IsAlive && Monster.MonsterCount > 0);
 
             GameOver();
         }
 
         private void CreatePlayer()
         {
-            player = new Player(30, 0, 0);
+            player = new Player(300, 0, 0);
         }
 
         private void CreateWorld()
@@ -77,7 +77,8 @@ namespace DungeonsOfDoom
 
         private void DisplayStats()
         {
-            Console.WriteLine($"Health: {player.Health}");
+            Console.WriteLine($"Player Health: {player.Health}");
+            Console.WriteLine($"Monsters: {Monster.MonsterCount}");
             foreach (var item in player.Backpack)
                 Console.WriteLine(item.Name);
         }
@@ -119,14 +120,16 @@ namespace DungeonsOfDoom
             if (currentRoom.Monster != null)
             {
                 AttackResult result = monster.Attack(player);
-                Console.WriteLine($"{result.Attacker} damaged {result.Opponent} by {result.Damage} hp.");
+                Console.WriteLine($"{result.Attacker} ({result.Attacker.Health}) damaged {result.Opponent}({result.Opponent.Health}) by {result.Damage} hp.");
                 Console.ReadKey(true);
                 result = player.Attack(monster);
-                Console.WriteLine($"{result.Attacker} damaged {result.Opponent} by {result.Damage} hp.");
+                Console.WriteLine($"{result.Attacker} ({result.Attacker.Health}) damaged {result.Opponent}({result.Opponent.Health}) by {result.Damage} hp.");
                 Console.ReadKey(true);
                 if (!monster.IsAlive)
+                {
                     player.Backpack.Add(monster);
                     currentRoom.Monster = null;
+                }
             }
             
             if (currentRoom.Item != null && player.IsAlive)
@@ -141,7 +144,10 @@ namespace DungeonsOfDoom
         private void GameOver()
         {
             Console.Clear();
-            Console.WriteLine("Game over...");
+            if (Monster.MonsterCount > 0)
+                Console.WriteLine("Game over...");
+            else
+                Console.WriteLine("You win!");
             Console.ReadKey();
             Play();
         }

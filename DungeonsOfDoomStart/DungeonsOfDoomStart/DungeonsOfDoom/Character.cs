@@ -10,7 +10,7 @@ namespace DungeonsOfDoom
         {
             Health = health;
         }
-        public int Health { get; set; }
+        public virtual int Health { get; set; }
 
         public virtual AttackResult Attack(Character opponent)
         {
